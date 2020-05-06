@@ -13,4 +13,4 @@ Esta es una tarea de Laboratorio de Métodos Computacionales
 ![Fósil](https://upload.wikimedia.org/wikipedia/commons/7/7a/Smilodon_californicus.jpg)
 
 # Acerca del autor
-Iván Romero nació en Barrancabermeja en el 2000 y actualmente estudia Geociencias
+Iván Romero nació en Barrancabermeja en el año 2000 y actualmente estudia Geociencias
