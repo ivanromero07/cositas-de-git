@@ -14,3 +14,6 @@ Esta es una tarea de Laboratorio de Métodos Computacionales
 
 # Acerca del autor
 Iván Romero nació en Barrancabermeja en 2000. Actualmente estudia Geociencias y le gusta la fotografía.
+
+#Sobre el colaborador
+Daniel Rojas es estudiante de Geociencias de la Universidad de los Andes, nación en Bogotá en 1999
